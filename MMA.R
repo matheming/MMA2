@@ -4,7 +4,7 @@ library(quadprog)
 library(MASS)
 
 rsquare = seq(.1,.9,.1)
-alpha = .5
+alpha = 1
 n = 400
 m = 1000
 Risk = matrix(0,6,length(rsquare))
