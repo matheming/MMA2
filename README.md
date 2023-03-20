@@ -1,0 +1,1 @@
+This is a code review abput MMA, notice `rnorm` and `mvrnorm` is different
